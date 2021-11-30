@@ -1,6 +1,7 @@
 {
   "name": "CLAMED Health Center",
   "short_name": "tablets-central-gondola",
+  "description": "## Build Setup",
   "icons": [
     {
       "src": "/clamed-health-center/_nuxt/icons/icon_64x64.f07069.png",
