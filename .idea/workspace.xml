@@ -2,123 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56be2882-f0d7-487f-9d9b-a50f5a0d0e17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_nuxt/0a5b9bb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/0d86539.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/1b9a57a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/2d307d0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/2fd3c76.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/359fbd6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/45e7b32.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/512608e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/526ad77.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/54c39f4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/5f656c5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/608bda6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/63ca6a6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/68b129d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/6bc0f8f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/7c1bd83.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/7f603b2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/82ca134.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/9d003f4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/a20e16d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/a637044.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/ae1af30.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/b08968c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/bfff1e5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/c1c47cd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/c56a5cf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/c9ac8ed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/ca9c694.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/ce3d788.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/d58aca6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/d75fc8c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/e3acea3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/e5a2ad2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/f6d52da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/f92107b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/008880e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/c7baaea.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/200.html" beforeDir="false" afterPath="$PROJECT_DIR$/200.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/02d2c2b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0881955.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0881955.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/78cfbbe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/08eadc7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0955c99.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0955c99.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/aa6dbfa.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0a6678e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0e1ab7d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/107ee4b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/14dd540.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/14dd540.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/58bb7be.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/1aad137.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/1c0fca5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/1e18b97.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/1e18b97.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/aadf448.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/224529f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/224529f.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/24546e1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/27b32fe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/2ea791b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/3113534.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/3113534.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/5e7e030.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/317fc59.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/317fc59.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/a75fd7e.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/38d421e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/38d421e.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/0b0057f.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/3e01b5c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/4956bbb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/4a64f60.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/53764eb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/53764eb.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/15ef61c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/5460cca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/5646736.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/57eabb0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/57eabb0.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/37d27d9.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/5f0fd52.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/5f0fd52.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/d80500b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/63c3511.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/6924f53.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/6df1943.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/6df1943.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/43a9b9c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/6eea5fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/7091f3e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/735780e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/76b7cb0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/78bf82b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/870a197.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/870a197.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/96d090c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/8d3980b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/9257c29.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/9646d10.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/9e6d2dd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/9e6d2dd.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/69036d5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/9ff556e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/9ff9fb4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/9ff9fb4.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/2f47c6d.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/LICENSES" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/LICENSES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/a1c6441.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/a26dbf2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/aa6cd89.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/ad715a2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/b608d27.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/b608d27.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/5c8a3f3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/bc9c5f0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/be19259.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/be19259.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/70d9c72.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c016513.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c016513.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/7cccb56.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c11cc46.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c11cc46.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/7dd634f.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c28fed0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c44db0b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c44db0b.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/0c3d2f6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c4b1912.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c4b1912.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/2eb0aca.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c9fd15a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/dfcb48c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/e009e59.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/e009e59.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/08f37a2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/f0d2256.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/f76a548.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/15ef61c.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/a200cf3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/6bc0f8f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/ce3d788.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/cd79297.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/e5a2ad2.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gondola/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gondola/agora/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/agora/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gondola/clic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/clic/index.html" afterDir="false" />
@@ -210,7 +101,7 @@
       <workItem from="1637350763883" duration="1627000" />
       <workItem from="1637460515856" duration="196000" />
       <workItem from="1638294860322" duration="14648000" />
-      <workItem from="1638446616043" duration="2091000" />
+      <workItem from="1638446616043" duration="2756000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1637351057495</created>
@@ -408,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638450313848</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Deploy">
+      <created>1638453656615</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1638453656615</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
