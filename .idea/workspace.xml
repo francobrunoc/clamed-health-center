@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56be2882-f0d7-487f-9d9b-a50f5a0d0e17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_nuxt/008880e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/c7baaea.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/200.html" beforeDir="false" afterPath="$PROJECT_DIR$/200.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/15ef61c.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/a200cf3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/6bc0f8f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/ce3d788.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/cd79297.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/e5a2ad2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/agora/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/agora/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/clic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/clic/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/hc/alexa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/hc/alexa/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/hc/care/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/hc/care/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/hc/entering/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/hc/entering/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/hc/holography/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/hc/holography/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/hc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/hc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/hc/self/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/hc/self/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/hc/tablets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/hc/tablets/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/hc/telemedicine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/hc/telemedicine/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/home/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gondola/intro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/intro/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/colgate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/colgate/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/nestle/fases1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/nestle/fases1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/nestle/fases3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/nestle/fases3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/nestle/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/nestle/home/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/nestle/intro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/nestle/intro/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/pampers/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/pampers/home/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/pampers/intro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/pampers/intro/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/sanofi/dorflex/adesivo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/sanofi/dorflex/adesivo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/sanofi/dorflex/comprimidos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/sanofi/dorflex/comprimidos/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/sanofi/dorflex/gotas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/sanofi/dorflex/gotas/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/sanofi/dorflex/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/sanofi/dorflex/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/sanofi/dorflex/spray/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/sanofi/dorflex/spray/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/sanofi/intro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/sanofi/intro/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/sanofi/uno/comprimidos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/sanofi/uno/comprimidos/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/sanofi/uno/efervescente/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/sanofi/uno/efervescente/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shelf/sanofi/uno/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelf/sanofi/uno/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +63,7 @@
       <workItem from="1637350763883" duration="1627000" />
       <workItem from="1637460515856" duration="196000" />
       <workItem from="1638294860322" duration="14648000" />
-      <workItem from="1638446616043" duration="2756000" />
+      <workItem from="1638446616043" duration="3375000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1637351057495</created>
@@ -306,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638453656615</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Deploy">
+      <created>1638454898683</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1638454898683</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
