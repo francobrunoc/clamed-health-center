@@ -2,123 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56be2882-f0d7-487f-9d9b-a50f5a0d0e17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_nuxt/02d2c2b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/08eadc7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/0a6678e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/0e1ab7d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/107ee4b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/1aad137.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/1c0fca5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/27b32fe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/2ea791b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/3e01b5c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/4956bbb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/4a64f60.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/5460cca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/5646736.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/6114f99.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/6924f53.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/6eea5fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/7091f3e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/735780e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/78bf82b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/8d3980b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/8e06132.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/9257c29.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/9646d10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/9ff556e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/a1c6441.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/a26dbf2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/aa6cd89.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/ad715a2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/bc9c5f0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/c28fed0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/c9fd15a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/dfcb48c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/f0d2256.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_nuxt/f76a548.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/200.html" beforeDir="false" afterPath="$PROJECT_DIR$/200.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/08f37a2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/08f37a2.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/e009e59.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0a5b9bb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0b0057f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0b0057f.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/38d421e.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0c3d2f6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0c3d2f6.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/c44db0b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/0d86539.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/1b9a57a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/24546e1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/24546e1.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/224529f.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/2d307d0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/2eb0aca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/2eb0aca.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/c4b1912.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/2f47c6d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/2f47c6d.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/9ff9fb4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/2fd3c76.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/359fbd6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/37d27d9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/37d27d9.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/57eabb0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/43a9b9c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/43a9b9c.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/6df1943.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/45e7b32.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/512608e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/526ad77.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/54c39f4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/58bb7be.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/58bb7be.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/14dd540.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/5c8a3f3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/5c8a3f3.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/b608d27.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/5e7e030.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/5e7e030.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/3113534.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/5f656c5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/608bda6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/63ca6a6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/68b129d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/69036d5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/69036d5.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/9e6d2dd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/70d9c72.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/70d9c72.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/be19259.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/78cfbbe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/78cfbbe.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/0881955.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/7c1bd83.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/7cccb56.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/7cccb56.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/c016513.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/7dd634f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/7dd634f.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/c11cc46.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/7f603b2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/82ca134.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/96d090c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/96d090c.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/870a197.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/9d003f4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/LICENSES" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/LICENSES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/a20e16d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/a637044.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/a75fd7e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/a75fd7e.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/317fc59.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/aa6dbfa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/aa6dbfa.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/0955c99.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/aadf448.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/aadf448.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/1e18b97.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/ae1af30.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/b08968c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/bfff1e5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c1c47cd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c56a5cf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c6bee3d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/c9ac8ed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/ca9c694.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/ce3d788.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/d131d07.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/d58aca6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/d75fc8c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/d80500b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/d80500b.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/5f0fd52.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/dd93d92.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/dd93d92.js" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/09c135e.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/e3acea3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/f6d52da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_nuxt/f92107b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/02d2c2b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/0881955.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/08eadc7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/0955c99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/09c135e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/0a6678e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/0e1ab7d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/107ee4b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/14dd540.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/1aad137.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/1c0fca5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/1e18b97.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/224529f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/27b32fe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/2ea791b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/3113534.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/317fc59.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/38d421e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/3e01b5c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/4956bbb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/4a64f60.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/5460cca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/5646736.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/57eabb0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/5f0fd52.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/6114f99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/6924f53.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/6df1943.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/6eea5fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/7091f3e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/735780e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/78bf82b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/870a197.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/8d3980b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/8e06132.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/9257c29.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/icon_120x120.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/icon_144x144.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/icon_152x152.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/icon_192x192.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/icon_384x384.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/icon_512x512.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/icon_64x64.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/splash_ipad_1536x2048.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/splash_ipadpro10_1668x2224.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/splash_ipadpro12_2048x2732.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/splash_ipadpro9_1536x2048.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/splash_iphone6_50x1334.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/splash_iphoneplus_1080x1920.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/splash_iphonese_640x1136.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/splash_iphonex_1125x2436.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/splash_iphonexr_828x1792.f07069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/icons/splash_iphonexsmax_1242x2688.f07069.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/12_horas.d0e02d6.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/12kg.944d0df.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/4kg.22f27c0.png" beforeDir="false" />
@@ -127,28 +65,87 @@
       <change beforePath="$PROJECT_DIR$/_nuxt/img/a_clamed.78da917.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/about.6824362.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/agora.d11aaf8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/agora_health.b0dc83b.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/alexa.66a8adc.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/asp1.056a969.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/asp2.be549e8.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/asp3.75f5dd5.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/asp4.88df43c.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/baby.be4bb77.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/baby_left_hand_motion.62f5594.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/baby_left_hand_motion_2.022d962.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/baby_right_hand_motion.feb8768.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/baby_torso_inner_motion.5b2f09a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/baby_torso_outer_motion.ae918ba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/back_arrow.a43e826.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/background_carousel.97cff56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/barreiras_antivazamento.c3a77bf.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/blue_bird.c7134cb.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/button.2084781.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/calcio.82caf8a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/canais_gel.9b5e653.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/care.cd360e9.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/city.7814613.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/clamed_health_center.127af67.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/clamed_health_center.45513ba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/clamed_health_center_rgb.5287826.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/clamed_logo.7fd33f7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/clamed_logo.e3a2a93.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/cli_2.f450975.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/cli_3.5eccee1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/cli_6.9543b08.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/clic.39a6b31.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/clic.6e8b7c6.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/clinic.c31daaa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/clique_button.6a88103.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/confort_sec.28571c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_adesivo.4311761.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_adesivo_g.bacd9be.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_adesivo_p.347c3eb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_comprimidos.ca2f140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_gotas.5265d68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_gotas_pack.2b635eb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_head.d382b01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_icyhot.41b05d4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_label.47bedaa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_logo.06aa3d7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_packs.692a4a2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_spray.95351e4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_uno_body.7d9f9b2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_uno_comprimidos.5615274.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_uno_efervescente.75a5162.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_uno_label.6ac4a4f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_uno_logo.ee2c174.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/dorflex_uno_packs.92c26b7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/encontre_a_fralda.ac5362b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/fases_1_button.c6c0ee1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/fases_3_button.63a47e3.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/ferro.de679f8.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/fibras.714454d.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/footer.d22e574.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/fralda_sun.312a4de.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/greater14kg.acc7005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/holography.60d648a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/icones_servicos_1.93fe48f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/icones_servicos_2.4dd1737.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/icones_servicos_3.ffb757f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/icones_servicos_4.b5575a8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/icones_servicos_5.5340329.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/icones_servicos_6.f383bf8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/imunonutrientes.43868e8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/lata_1200g.080e0eb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/lata_1200g_label.b2af935.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/lata_400g.c3c2c4f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/lata_400g.cb4a865.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/lata_400g_label.85d220d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/lata_400g_label.9b3528f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/lata_800g.3a18672.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/lata_800g.ad37061.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/lata_800g_label.03f63d4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/lata_800g_label.3bad143.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/left_arrow.c8f19fe.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/less2kg.13f3ec6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/maxima_absorcao.49aca83.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/menu_1.917be87.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/menu_1_1.cfc6e6d.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/menu_1_2.d5a6929.png" beforeDir="false" />
@@ -164,14 +161,32 @@
       <change beforePath="$PROJECT_DIR$/_nuxt/img/modo_6.afd8a87.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/modo_7.86c89c1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/next.42eaaf6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/ninho_fases_1+.1b7c1e9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/ninho_fases_1_pack.3ff6607.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/ninho_fases_3+.cce9dc4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/ninho_fases_3_pack.7a3dc3c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/ninho_logo.da86edf.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/nova.64c7e5a.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/pack.a89b5a7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/pampers_logo.7e38fe1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/pink_bird.c60ba50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/prebioticos.94b8ecf.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/previous.f9ca4ab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/recommendation_fases_1+.18745af.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/recommendation_fases_3+.345b8b2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/rede_logos.a55cf11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/right_arrow.22cd0e4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/sache_.8bed0e8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/sache_label.3230b1e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/sanofi_logo.bc69420.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/self.17770b0.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/splash.6ea311c.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/splash.a616d86.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_nuxt/img/tablets.10233bc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/telemedicine.e28917c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/vitaminas_minerais.a30cbf9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/zero_sugar.1170872.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/zero_sugar.b9289ba.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gondola/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gondola/agora/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/agora/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gondola/clic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gondola/clic/index.html" afterDir="false" />
@@ -263,7 +278,7 @@
       <workItem from="1637350763883" duration="1627000" />
       <workItem from="1637460515856" duration="196000" />
       <workItem from="1638294860322" duration="14648000" />
-      <workItem from="1638446616043" duration="947000" />
+      <workItem from="1638446616043" duration="1452000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1637351057495</created>
@@ -447,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638446919252</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Deploy">
+      <created>1638449814116</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1638449814116</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
